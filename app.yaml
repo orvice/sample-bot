@@ -1,0 +1,7 @@
+# [START runtime]
+runtime: go
+env: flex
+# [END runtime]
+env_variables:
+  Telegram_Bot_Token: ''
+  Telegram_Bot_Name: ''
